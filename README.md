@@ -5,4 +5,4 @@ assignment-3=https://github.com/2303A52061/23CSBTB39-40/blob/main/assignment%20A
 assignment-4=https://github.com/2303A52061/23CSBTB39-40/blob/main/assignment-4.ipynb
 assignment-5=https://github.com/2303A52061/23CSBTB39-40/blob/main/AIML_5.ipynb
 assignment-6=https://github.com/2303A52061/23CSBTB39-40/blob/main/AIML_6.ipynb
-assignment-7=
+assignment-7=https://github.com/2303A52061/23CSBTB39-40/blob/main/AIML_7.ipynb
