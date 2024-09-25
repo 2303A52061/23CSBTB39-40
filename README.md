@@ -1,5 +1,5 @@
 # 23CSBTB39-40
-assignment-1=https://github.com/2303A52061/23CSBTB39-40/blob/main/Assignment%201.ipynb
+assignment-1=https://github.com/2303A52061/23CSBTB39-40/blob/main/AIML_1.ipynb
 assignment-2=https://github.com/2303A52061/23CSBTB39-40/blob/main/AIML-2.ipynb
 assignment-3=https://github.com/2303A52061/23CSBTB39-40/blob/main/assignment%20AIML-3.ipynb
 assignment-4=https://github.com/2303A52061/23CSBTB39-40/blob/main/assignment-4.ipynb
