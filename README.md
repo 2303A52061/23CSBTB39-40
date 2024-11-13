@@ -9,3 +9,4 @@ assignment-7=https://github.com/2303A52061/23CSBTB39-40/blob/main/AIML_7.ipynb
 assignment-8=https://github.com/2303A52061/23CSBTB39-40/blob/main/AIML_Lab08.ipynb
 assignment-9=https://github.com/2303A52061/23CSBTB39-40/blob/main/AIML_Lab09.ipynb
 assignment10-=https://github.com/2303A52061/23CSBTB39-40/blob/main/AIML_Lab10.ipynb
+EXAM 1=https://github.com/2303A52061/23CSBTB39-40/blob/main/EXAM%201
